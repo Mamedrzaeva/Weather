@@ -17,7 +17,7 @@ class _WeatherState extends State<Weather> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text ('10 June, Monday'),
+          title: Text ('10 June, xxMonday'),
         ),
         body:ScrollView (
           child: Stack (
