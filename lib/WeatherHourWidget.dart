@@ -1,9 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:intl/date_symbol_data_file.dart';
-import 'package:intl/intl.dart';
-import 'package:weatherapp/WeatherInfo.dart';
-
 import 'WeatherHourInfo.dart';
 
 class WeatherHourWidget extends StatelessWidget {
